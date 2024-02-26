@@ -1,0 +1,35 @@
+1. Create Repository 2202030430102
+Go to GitHub and create a new repository named 2202030430102.
+Clone this repository to your local machine using the command:
+git clone https://github.com/your-username/2202030430102.git
+Replace your-username with your GitHub username.
+
+2. Create Repository with Your Enrollment Number
+Navigate into the cloned repository (2202030430102).
+Create a new directory with your enrollment number (e.g., 2202030430102).
+Navigate into this directory.
+
+3. Initialize Repository and Create Folders
+Initialize a new Git repository in this directory:
+git init
+Create two folders named Assignment_1 and Assignment_2:
+mkdir Assignment_1
+mkdir Assignment_2
+
+4. Prepare Word File with Task Steps
+Create a Word file named Task_Steps.docx or any other suitable name.
+In this Word file, document each step of the task you performed to complete the requirements. Include details such as repository creation, folder creation, Git commands used, etc.
+
+5. Add and Commit Changes
+Add all the changes to the staging area:
+git add .
+Commit the changes with a descriptive message:
+git commit -m "Added repository with enrollment number and created Assignment_1 and Assignment_2 folders. Prepared Task_Steps.docx."
+
+6. Push Changes to GitHub
+Push the committed changes to GitHub:
+git push origin main
+Replace main with the name of your main branch if it's not the default branch.
+
+7. Verify on GitHub
+Go to your GitHub repository (2202030430102) in your browser and verify that the changes, including the enrollment number repository with the folders and the Word file, have been successfully pushed.
