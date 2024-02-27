@@ -1,0 +1,1379 @@
+.image-61-icon5 {
+  object-fit: cover;
+  z-index: 1;
+  width: 2155px;
+  height: 1616px;
+  position: absolute;
+  bottom: -571px;
+  right: -156px;
+  margin: 0 !important;
+}
+
+.rectangle-frame {
+  background-color: var(--color3);
+}
+
+.frame-instance, .rectangle-frame, .rectangle-frame1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-frame1 {
+  background-color: var(--color-darkslategray-200);
+  -webkit-backdrop-filter: var(--effect);
+  backdrop-filter: var(--effect);
+  z-index: 2;
+}
+
+.frame-instance {
+  margin: 0 !important;
+}
+
+.map-icon30, .map-icon31 {
+  z-index: 3;
+  position: absolute;
+  margin: 0 !important;
+}
+
+.map-icon30 {
+  width: 1215px;
+  height: 1016px;
+  top: -247px;
+  right: -551px;
+}
+
+.map-icon31 {
+  object-fit: contain;
+  width: 890.8px;
+  height: 1031.1px;
+  bottom: -421.1px;
+  left: -242px;
+}
+
+.g18-icon11 {
+  width: 50px;
+  height: 50px;
+}
+
+.g18-icon11, .tourtle11 {
+  position: relative;
+}
+
+.frame-instance1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 20px;
+  display: flex;
+}
+
+.about11, .contact-us22, .destination18, .home11, .page18 {
+  position: relative;
+}
+
+.contact-us22 {
+  white-space: nowrap;
+}
+
+.frame-group2, .text-frame2 {
+  flex-direction: row;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-group2 {
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--color);
+  font-family: var(--body1-regular);
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0 50px;
+  margin: 0;
+}
+
+.text-frame2 {
+  justify-content: space-between;
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-xl);
+  z-index: 4;
+}
+
+.about-us6 {
+  font-size: inherit;
+  text-transform: capitalize;
+  width: 929px;
+  max-width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+  display: inline-block;
+  position: relative;
+}
+
+.lorem-ipsum-dolor26 {
+  font-size: var(--body1-regular-size);
+  align-self: stretch;
+  position: relative;
+}
+
+.frame-group3, .link-text1 {
+  justify-content: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.link-text1 {
+  z-index: 4;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px 0;
+  width: 1006px;
+}
+
+.frame-group3 {
+  text-align: center;
+  font-size: var(--font-size-75xl);
+  flex-direction: row;
+  align-items: flex-start;
+  width: 1100px;
+}
+
+.header5, .logo5 {
+  position: relative;
+}
+
+.header5 {
+  padding: var(--padding-61xl) var(--padding-49xl) var(--padding-377xl) var(--padding-143xl);
+  box-sizing: border-box;
+  font-family: var(--h3);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  gap: 266px 0;
+  max-width: 100%;
+  display: flex;
+  overflow: hidden;
+}
+
+.logo5 {
+  z-index: 5;
+}
+
+.contact-us23, .page-text-node {
+  position: absolute;
+  margin: 0 !important;
+}
+
+.contact-us23 {
+  font-family: var(--body1-regular);
+  z-index: 6;
+  top: 0;
+  left: -57.5px;
+}
+
+.page-text-node {
+  font-family: var(--h3);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  top: 80px;
+  left: 1866.5px;
+}
+
+.about12, .destination19, .home12, .page19 {
+  z-index: 5;
+  position: absolute;
+  top: 80px;
+  margin: 0 !important;
+}
+
+.home12 {
+  display: inline-block;
+  right: 545px;
+}
+
+.about12, .destination19, .page19 {
+  right: 430px;
+}
+
+.destination19, .page19 {
+  right: 266px;
+}
+
+.page19 {
+  right: 166px;
+}
+
+.contactdetails {
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--color);
+  font-family: var(--body1-regular);
+  flex-direction: column;
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  max-width: 100%;
+  min-height: 1118px;
+  display: flex;
+  position: relative;
+}
+
+.paris-france-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  width: 1599.5px;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.december29-2023-2 {
+  position: relative;
+}
+
+.december29-2023-alexander-d-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.blank-line10, .blank-line11, .blank-line12, .blank-line13, .blank-line14, .embark-on-unforgettable, .for-nature-lovers, .for-wildlife-enthusiasts, .from-the-vibrant, .in-kyoto-delve, .in-machu-picchu, .or-escape-to {
+  margin: 0;
+}
+
+.embark-on-unforgettable-container {
+  align-self: stretch;
+  position: relative;
+}
+
+.text-logo {
+  padding: 0 var(--padding-10xs);
+  font-family: var(--body1-regular);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 50px 0;
+  display: flex;
+}
+
+.top-popular-travel {
+  font-size: inherit;
+  max-width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+  display: inline-block;
+  position: relative;
+}
+
+.mask-group-icon43, .mask-group-icon44, .mask-group-icon45 {
+  object-fit: cover;
+  max-width: 100%;
+  min-height: 321px;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.map-vector4, .text-contact-us {
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.text-contact-us {
+  flex-direction: row;
+  grid-template-columns: repeat(3, minmax(212px, 1fr));
+  gap: 0 50px;
+  display: grid;
+}
+
+.map-vector4 {
+  padding: 0 var(--padding-10xs) 0 var(--padding-11xs);
+  box-sizing: border-box;
+  font-size: var(--h3-size);
+  flex-direction: column;
+  gap: 50px 0;
+  max-width: 100%;
+  display: flex;
+}
+
+.known-as-the, .paris-france {
+  position: relative;
+}
+
+.known-as-the {
+  font-size: var(--h6-size);
+  font-family: var(--body1-regular);
+  align-self: stretch;
+}
+
+.footer8 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 20px 0;
+  min-height: 142px;
+  display: flex;
+}
+
+.famous-for-its, .santorini-greece1 {
+  position: relative;
+}
+
+.famous-for-its {
+  font-size: var(--h6-size);
+  font-family: var(--body1-regular);
+  align-self: stretch;
+}
+
+.footer9 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 20px 0;
+  display: flex;
+}
+
+.machu-picchu-peru {
+  position: relative;
+}
+
+.links-text1, .text-term-of-use-privacy-polic {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.text-term-of-use-privacy-polic {
+  font-size: var(--h5-size);
+  gap: 30px 0;
+}
+
+.frame-home-about-destination-c {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 50px 0;
+  min-width: 620px;
+  max-width: 100%;
+  display: flex;
+}
+
+.recent-uploaded {
+  font-size: inherit;
+  max-width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+  display: inline-block;
+  position: relative;
+}
+
+.mask-group-icon46 {
+  object-fit: cover;
+  width: 150px;
+  height: 160px;
+  position: relative;
+}
+
+.december29-2023-3 {
+  position: relative;
+}
+
+.popular-travel-destinations4 {
+  font-size: var(--h6-size);
+  font-family: var(--h3);
+  width: 174px;
+  display: inline-block;
+  position: relative;
+}
+
+.see-more10 {
+  color: var(--color-blueviolet);
+}
+
+.see-more9 {
+  width: 231px;
+  display: inline-block;
+  position: relative;
+}
+
+.december29-2023-alexander-d-container {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px 0;
+  min-width: 170px;
+  display: flex;
+}
+
+.mask-group-parent2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  gap: 0 30px;
+  display: flex;
+}
+
+.mask-group-icon47 {
+  object-fit: cover;
+  width: 150px;
+  height: 160px;
+  position: relative;
+}
+
+.december29-2023-alexander1 {
+  position: relative;
+}
+
+.popular-travel-destinations5 {
+  font-size: var(--h6-size);
+  font-family: var(--h3);
+  width: 174px;
+  display: inline-block;
+  position: relative;
+}
+
+.see-more12 {
+  color: var(--color-blueviolet);
+}
+
+.see-more11 {
+  width: 231px;
+  display: inline-block;
+  position: relative;
+}
+
+.december29-2023-alexander-d-parent1 {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px 0;
+  min-width: 167px;
+  display: flex;
+}
+
+.mask-group-parent3 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  gap: 0 30px;
+  display: flex;
+}
+
+.mask-group-icon48 {
+  object-fit: cover;
+  width: 150px;
+  height: 160px;
+  position: relative;
+}
+
+.december29-2023-4 {
+  position: relative;
+}
+
+.popular-travel-destinations6 {
+  font-size: var(--h6-size);
+  font-family: var(--h3);
+  width: 174px;
+  display: inline-block;
+  position: relative;
+}
+
+.see-more13 {
+  color: var(--color-blueviolet);
+  width: 231px;
+  display: inline-block;
+  position: relative;
+}
+
+.december29-2023-alexander-d-parent2 {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px 0;
+  min-width: 170px;
+  display: flex;
+}
+
+.mask-group-parent4 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  gap: 0 30px;
+  display: flex;
+}
+
+.frame-parent14, .recent-uploaded-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-parent14 {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  gap: 50px 0;
+}
+
+.recent-uploaded-parent {
+  gap: 60px 0;
+  max-width: 100%;
+}
+
+.december-alexander1, .frame4 {
+  box-sizing: border-box;
+  flex-shrink: 0;
+  align-items: center;
+  max-width: 100%;
+  display: flex;
+  overflow: hidden;
+}
+
+.frame4 {
+  padding: var(--padding-xl) 0;
+  font-size: var(--h4-size);
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 442px;
+  min-width: 442px;
+  min-height: 1005px;
+}
+
+.december-alexander1 {
+  padding: 0 var(--padding-xl) 0 0;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 0 161px;
+  width: 1577px;
+}
+
+.frame3, .testimonials-icon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.testimonials-icon {
+  z-index: 1;
+  max-height: 100%;
+  margin-top: -389px;
+  position: relative;
+}
+
+.frame3 {
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.testimonials13, .what-they-say6 {
+  position: relative;
+}
+
+.what-they-say6 {
+  font-size: var(--h1-size);
+  align-self: stretch;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+}
+
+.testimonials-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 30px 0;
+  width: 503px;
+  max-width: 100%;
+  display: flex;
+}
+
+.blank-line15, .blank-line16, .booking-with-advntureatlas5, .our-journey-with5 {
+  margin: 0;
+}
+
+.lorem-ipsum-dolor-container10 {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  align-self: stretch;
+  position: relative;
+}
+
+.star-icon85, .star-icon86, .star-icon87, .star-icon88, .star-icon89 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  min-height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.social-media-links1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0 10px;
+  display: flex;
+}
+
+.b8 {
+  position: relative;
+}
+
+.social-media-links-parent, .star-rating1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 25px;
+  display: flex;
+}
+
+.star-rating1 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px 0;
+  width: 646px;
+  min-width: 646px;
+  max-width: 100%;
+}
+
+.ellipse-icon, .mask-group-icon49 {
+  position: absolute;
+  margin: 0 !important;
+}
+
+.ellipse-icon {
+  object-fit: contain;
+  width: 728.3px;
+  height: 444.7px;
+  top: 25px;
+  left: -586.5px;
+}
+
+.mask-group-icon49 {
+  object-fit: cover;
+  width: 781.9px;
+  height: 990.5px;
+  bottom: -549.5px;
+  right: -435.9px;
+}
+
+.mask-group-icon50 {
+  object-fit: cover;
+  z-index: 1;
+  flex: 1;
+  max-width: 100%;
+  height: 639.1px;
+  position: relative;
+  overflow: hidden;
+}
+
+.testimonial-block, .vector-parent1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.vector-parent1 {
+  flex-direction: row;
+  align-self: stretch;
+  position: relative;
+}
+
+.testimonial-block {
+  flex-direction: column;
+  width: 538px;
+  min-width: 538px;
+  height: 1216px;
+}
+
+.machu-picchu, .testimonials12 {
+  flex-shrink: 0;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.testimonials12 {
+  padding: 0 var(--padding-xl) var(--padding-31xl) 0;
+  box-sizing: border-box;
+  z-index: 2;
+  font-size: var(--h6-size);
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 2px;
+  width: 1641.9px;
+  max-width: 100%;
+  margin-top: -48px;
+}
+
+.machu-picchu {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 1858px;
+  max-width: 115%;
+}
+
+.santorini-greece {
+  flex-direction: row;
+  flex-shrink: 0;
+  align-self: stretch;
+  padding: 0;
+}
+
+.home-page-header, .logo-container2, .santorini-greece {
+  box-sizing: border-box;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.home-page-header {
+  padding: 0 0 0 var(--padding-12xs);
+  flex-direction: column;
+  flex: 1;
+  gap: 101px 0;
+  overflow: hidden;
+}
+
+.logo-container2 {
+  text-align: left;
+  font-size: var(--body1-regular-size);
+  color: var(--color4);
+  font-family: var(--h3);
+  flex-direction: row;
+  width: 1638px;
+  padding: 0 0 0 16px;
+}
+
+.footer-child6, .map-icon32 {
+  position: absolute;
+  margin: 0 !important;
+}
+
+.footer-child6 {
+  background-color: var(--color3);
+  width: 100%;
+  height: 550px;
+  bottom: -11px;
+  left: 0;
+  right: 0;
+}
+
+.map-icon32 {
+  object-fit: contain;
+  z-index: 1;
+  width: 1728.7px;
+  height: 1673.6px;
+  top: -607.6px;
+  left: -112px;
+}
+
+.g18-icon12 {
+  width: 50px;
+  height: 50px;
+}
+
+.g18-icon12, .tourtle12 {
+  position: relative;
+}
+
+.contact-icon {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 20px;
+  display: flex;
+}
+
+.lorem-ipsum-dolor27 {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  color: var(--color2);
+  align-self: stretch;
+  position: relative;
+}
+
+.akar-iconsfacebook-fill6, .akar-iconslinkedin-box-fill6, .akar-iconstwitter-fill6, .ant-designinstagram-filled-icon6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  min-height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.contact-info1, .footer-content1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0 15px;
+  display: flex;
+}
+
+.contact-info1 {
+  color: var(--color);
+  flex-direction: column;
+  gap: 25px 0;
+  width: 314px;
+}
+
+.page20 {
+  position: relative;
+}
+
+.destination20 {
+  white-space: nowrap;
+}
+
+.blog7, .destination20, .faq8, .gallery8, .packages7, .tour-guide6 {
+  position: relative;
+}
+
+.link-list, .sub-links {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.sub-links {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  gap: 15px 0;
+}
+
+.link-list {
+  gap: 25px 0;
+}
+
+.links10, .privacy-policy6, .term-of-use6 {
+  position: relative;
+}
+
+.faq9, .footer-menu {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.footer-menu {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  gap: 15px 0;
+}
+
+.faq9 {
+  gap: 25px 0;
+}
+
+.call-icon8, .contact-us24 {
+  position: relative;
+}
+
+.call-icon8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.contact-location-data {
+  white-space: nowrap;
+  position: relative;
+}
+
+.links-page {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 20px;
+  display: flex;
+}
+
+.message-icon8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.tourtledomaincom7 {
+  white-space: nowrap;
+  position: relative;
+}
+
+.links-page1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 20px;
+  display: flex;
+}
+
+.location-icon8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.court-tower-432burn9, .location-icon8 {
+  position: relative;
+}
+
+.links-page2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0 20px;
+  display: flex;
+}
+
+.footer-page-info, .gallery-tour-guide {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gallery-tour-guide {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  gap: 15px 0;
+}
+
+.footer-page-info {
+  gap: 25px 0;
+}
+
+.booking-destination8 {
+  position: relative;
+}
+
+.lorem-ipsum-dolor28 {
+  align-self: stretch;
+  position: relative;
+}
+
+.booking-now6 {
+  font-size: var(--h6-size);
+  font-family: var(--h3);
+  color: var(--color);
+  text-align: left;
+  position: relative;
+}
+
+.button31 {
+  cursor: pointer;
+  padding: var(--padding-mini) var(--padding-3xs);
+  background-color: var(--color1);
+  border-radius: var(--br-11xl);
+  white-space: nowrap;
+  border: 0;
+  flex-direction: row;
+  justify-content: center;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.button31:hover {
+  background-color: var(--color-darkslategray-100);
+}
+
+.booking-destination-btn, .footer-social-icons {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.footer-social-icons {
+  font-size: var(--body1-regular-size);
+  font-family: var(--body1-regular);
+  align-self: stretch;
+  gap: 50px 0;
+}
+
+.booking-destination-btn {
+  cursor: pointer;
+  gap: 25px 0;
+  width: 317px;
+}
+
+.contact-info-parent {
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  z-index: 2;
+  flex-direction: row;
+  width: 1596px;
+  max-width: 100%;
+  display: flex;
+  overflow: hidden;
+}
+
+.footer-child7 {
+  z-index: 3;
+  width: 1920px;
+  max-width: 100%;
+  height: 70px;
+  display: none;
+  position: relative;
+}
+
+.footer-copyright-icon {
+  z-index: 2;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.copyright-2022-tourtle6 {
+  z-index: 3;
+  position: relative;
+}
+
+.vector-symbol {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 470px;
+  max-width: 100%;
+  display: flex;
+}
+
+.destination-vector, .footer10 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 100%;
+}
+
+.destination-vector {
+  font-size: var(--body1-regular-size);
+  color: var(--color);
+  font-family: var(--body1-regular);
+  gap: 35px 0;
+  width: 1596px;
+  display: flex;
+}
+
+.footer10 {
+  padding: var(--padding-97xl) var(--padding-5xl) var(--padding-5xl);
+  flex: 1;
+  gap: 97px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.blog-detail, .footer10, .page-footer {
+  box-sizing: border-box;
+  display: flex;
+}
+
+.page-footer {
+  padding: 0 var(--padding-11xs) 0 0;
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--color2);
+  font-family: var(--h3);
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.blog-detail {
+  background-color: var(--color);
+  padding: 0 0 var(--padding-12xs);
+  letter-spacing: normal;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 68px 0;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1275px) {
+  .frame4 {
+    flex: 1;
+    min-height: auto;
+  }
+
+  .december-alexander1 {
+    flex-wrap: wrap;
+    gap: 0 161px;
+  }
+
+  .star-rating1, .testimonial-block {
+    flex: 1;
+  }
+
+  .testimonials12 {
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+    flex-wrap: wrap;
+  }
+
+  .contact-info-parent {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (width <= 1100px) {
+  .frame-group2 {
+    display: none;
+  }
+
+  .header5 {
+    padding: var(--padding-33xl) var(--padding-15xl) var(--padding-238xl) var(--padding-62xl);
+    box-sizing: border-box;
+    gap: 266px 0;
+  }
+
+  .blog-detail {
+    gap: 68px 0;
+  }
+}
+
+@media screen and (width <= 750px) {
+  .frame-group2 {
+    gap: 0 50px;
+  }
+
+  .about-us6 {
+    font-size: var(--font-size-28xl);
+  }
+
+  .link-text1 {
+    gap: 50px 0;
+  }
+
+  .header5 {
+    padding-left: var(--padding-21xl);
+    padding-top: var(--padding-15xl);
+    padding-bottom: var(--padding-148xl);
+    box-sizing: border-box;
+    gap: 266px 0;
+  }
+
+  .text-logo {
+    gap: 50px 0;
+  }
+
+  .top-popular-travel {
+    font-size: var(--font-size-24xl);
+  }
+
+  .text-contact-us {
+    grid-template-columns: repeat(2, minmax(212px, 368px));
+    justify-content: center;
+    gap: 0 50px;
+  }
+
+  .map-vector4 {
+    gap: 50px 0;
+  }
+
+  .machu-picchu-peru, .paris-france, .santorini-greece1 {
+    font-size: var(--font-size-7xl);
+  }
+
+  .frame-home-about-destination-c {
+    gap: 50px 0;
+    min-width: 100%;
+  }
+
+  .recent-uploaded {
+    font-size: var(--font-size-16xl);
+  }
+
+  .frame4 {
+    min-width: 100%;
+  }
+
+  .december-alexander1 {
+    gap: 0 161px;
+  }
+
+  .what-they-say6 {
+    font-size: var(--font-size-39xl);
+  }
+
+  .star-rating1 {
+    gap: 50px 0;
+  }
+
+  .star-rating1, .testimonial-block {
+    min-width: 100%;
+  }
+
+  .testimonials12 {
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+
+  .home-page-header {
+    gap: 101px 0;
+  }
+
+  .destination-vector {
+    gap: 35px 0;
+  }
+
+  .footer10 {
+    padding-top: var(--padding-56xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+    gap: 97px 0;
+  }
+
+  .blog-detail {
+    gap: 68px 0;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .about-us6 {
+    font-size: var(--font-size-9xl);
+  }
+
+  .about12, .contact-us23, .destination19, .home12, .logo5, .page19 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .top-popular-travel {
+    font-size: var(--h5-size);
+  }
+
+  .mask-group-icon43, .mask-group-icon44, .mask-group-icon45 {
+    width: 100%;
+  }
+
+  .text-contact-us {
+    grid-template-columns: minmax(212px, 1fr);
+  }
+
+  .famous-for-its, .known-as-the, .machu-picchu-peru, .paris-france, .santorini-greece1 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .recent-uploaded {
+    font-size: var(--font-size-7xl);
+  }
+
+  .mask-group-icon46 {
+    flex: 1;
+  }
+
+  .popular-travel-destinations4 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .mask-group-parent2 {
+    flex-wrap: wrap;
+  }
+
+  .mask-group-icon47 {
+    flex: 1;
+  }
+
+  .popular-travel-destinations5 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .mask-group-parent3 {
+    flex-wrap: wrap;
+  }
+
+  .mask-group-icon48 {
+    flex: 1;
+  }
+
+  .popular-travel-destinations6 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .mask-group-parent4 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent14 {
+    gap: 50px 0;
+  }
+
+  .recent-uploaded-parent {
+    gap: 60px 0;
+  }
+
+  .december-alexander1 {
+    gap: 0 161px;
+  }
+
+  .testimonials13 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .what-they-say6 {
+    font-size: var(--font-size-24xl);
+  }
+
+  .b8 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .home-page-header {
+    gap: 101px 0;
+  }
+
+  .booking-destination8, .contact-us24, .links10, .page20, .tourtle12 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .footer-social-icons {
+    gap: 50px 0;
+  }
+
+  .footer10 {
+    gap: 97px 0;
+  }
+}
+
+/*# sourceMappingURL=blog-detail.f3a59b49.css.map */
